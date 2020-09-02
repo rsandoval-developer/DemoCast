@@ -1,0 +1,2 @@
+rootProject.name='DemoCast'
+include ':app'
